@@ -1,0 +1,4 @@
+rubby is #ScriptingLanguage.
+it is a dynamic language. java is static and Js ia also dynamic.
+Ruby #dynamic and #interpreted means dont define the type does not need to be compile like java.
+
