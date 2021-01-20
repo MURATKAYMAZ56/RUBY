@@ -1,0 +1,8 @@
+
+
+Create classes and intantiate objects
+Store data in objects and define methods
+intialize objects
+scope data methods to classes
+write custom operators
+order objects and test quality
