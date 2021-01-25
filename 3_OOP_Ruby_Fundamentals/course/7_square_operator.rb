@@ -30,7 +30,8 @@ end
 
 end
 
-c=COllection.new("Software")
-c<< Book.new(title:"Code",author: "Murat Ruby",pub_year:2021)
+c=Collection.new("Software")
+c << Book.new(title:"Code",author: "Murat Ruby",pub_year:2021)
+c << Book.new(title:"Testing", author:"Red Murat", pub_year:2018)
 
 p c 
