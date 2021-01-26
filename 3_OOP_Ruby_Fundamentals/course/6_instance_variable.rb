@@ -1,7 +1,7 @@
 class Collection
     @search_count=0
     
-    def self.find
+ def self.find
     @search_count +=1
     end
 
