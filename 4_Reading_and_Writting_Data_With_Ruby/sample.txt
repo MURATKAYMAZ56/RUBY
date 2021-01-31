@@ -1,0 +1,28 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Pellentesque vitae diam et turpis commodo faucibus ut quis massa.
+  Etiam vel ante eget dui gravida pellentesque sed in purus. Mauris urna purus, 
+  imperdiet sit amet condimentum eu, dignissim vitae eros. Curabitur interdum orci 
+  eleifend ante lobortis, ac semper nisi bibendum. Nulla ultricies nulla vitae tincidunt 
+  condimentum. 
+Nunc luctus pellentesque est ac interdum. Donec eget tellus sit amet enim molestie 
+hendrerit.
+
+
+Murat adds something to current file
+Murat adds something to current file.
+Murat adds something to current file.
+Murat adds something to current file
+ggg
+Murat adds something to current file
+Murat adds something to current file
+Murat adds something to current file h
+ere we will append by using anonymous function Murat adds something to current file 
+here we will append by using anonymous function Murat adds something to current file 
+here we will append by using anonymous function Murat adds something to current file 
+here we will append by using anonymous 
+function Murat adds something to current file here we will
+ append by using anonymous function Murat a
+ dds something to current fileMurat adds something
+  to current fileMurat adds something to current fileMur
+  at adds something to current file here we will append by 
+  using anonymous function with << append option 
