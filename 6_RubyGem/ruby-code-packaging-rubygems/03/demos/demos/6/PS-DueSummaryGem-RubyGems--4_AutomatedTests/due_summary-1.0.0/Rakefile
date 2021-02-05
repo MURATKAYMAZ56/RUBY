@@ -1,0 +1,10 @@
+# Bring in a special type of rake task to run tests 
+require 'rake/testtask'
+
+# When we run rake, run our test
+task default: 'test'
+
+# Definition of our test task
+Rake::TestTask.new do |task|
+  task.pattern = 'test/test*.rb'
+ end

@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    minitest (5.14.1)
+    rack (2.0.9)
+    rdoc (6.2.1)
+    tabulate (0.1.2)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  colorize!
+  minitest!
+  rack (~> 2.0.1)!
+  rdoc!
+  tabulate!
+
+BUNDLED WITH
+   2.1.4
